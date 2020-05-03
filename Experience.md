@@ -1,18 +1,20 @@
 #  Experience Points
 
 **How can I collect experience point ?**
-Get a task assigned to you in Jira , take the task to in-progress state. Then Click Sync button in Tasks page. 
 
-![](https://raw.githubusercontent.com/omert08/patron_manual/master/images/tasks.jpg)
+When you get a task to "in-progress" status, please click on Sync button to import it to patron.ai. Once it is imported attach skills and tools related to this skill. You can attach 2 skills and 3 tools maximum for a task. 
 
-You will be seeing the tasks imported from Jira, you can easily attach skill and tool you use for this specific task like above. 
+![](https://raw.githubusercontent.com/patron-labs/patron_manual/master/images/xp1.png)
 
-Once you've entered any skill or tool you will see the box (crate) got colored. There is one more step, once you move your task to Done state in Jira, you can open the box and collect experience points in your profile. 
+Once you've done the task in Jira, please tap on Sync again, you will see a box filled by experience points. 
 
+![](https://raw.githubusercontent.com/patron-labs/patron_manual/master/images/xp2.png)
+
+You can collect experience points created by tapping on the box. 
 
 **How experience points are calculated ?**
 
-Experience points are calculated by patron's neural network based on time spent with specific skill. 
+Experience points are calculated by patron's deep neural network algorithm. DNN uses the time information of tasks to calculate how much experience should be earned. 
 
 
 ## Experience Levels:
