@@ -6,7 +6,7 @@ When you get a task to "in-progress" status, please click on Sync button to impo
 
 ![](https://raw.githubusercontent.com/patron-labs/patron_manual/master/images/xp1.png)
 
-Once you've done the task in Jira. You will see a box filled by experience points. 
+Once you've done the task in Jira, please tap on Sync again, you will see a box filled by experience points. 
 
 ![](https://raw.githubusercontent.com/patron-labs/patron_manual/master/images/xp2.png)
 

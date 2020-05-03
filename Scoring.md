@@ -10,11 +10,13 @@ Task Score  is a  communication way between you and your colleagues. You can sco
 
 Please check reputation document for more details.
 
+**I can't see any task in Scoring page ?** 
+
+You should be placed in a team to see your teammates tasks in Scoring page. You can see some tasks in Scoring page if your teammates finished a Jira task recently. Please check Organization page to see if you are in a team or not. 
+
 **Does scores effect the experience points ?** 
 
-No, scores are about how do you recognize your colleague's effort and contribution. 
-
-
+No, scores has nothing to do for experience points.
 
 
 
