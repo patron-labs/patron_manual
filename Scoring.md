@@ -1,4 +1,10 @@
-#  Scoring
+---
+title: Scoring
+---
+
+
+# Scoring
+
 Patron allows users to validate the performance of colleagues while they complete their tasks. Scoring page is available for only teams. 
 
 ![enter image description here](https://raw.githubusercontent.com/patron-labs/patron_manual/master/images/scoring.png)

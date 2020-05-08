@@ -1,4 +1,11 @@
-#  Reputation
+---
+title: Reputation
+
+---
+
+
+# Reputation
+
 Reputation points are collected by skill endorsements and scoring page. 
 
 ![enter image description here](https://raw.githubusercontent.com/omert08/patron_manual/master/images/reps.png)

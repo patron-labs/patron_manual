@@ -1,3 +1,7 @@
+---
+title: Punctuality Score
+---
+
 #  Punctuality Score
 
 Punctuality score represents how good is your time performance according to last 10 jira tasks you've done. 

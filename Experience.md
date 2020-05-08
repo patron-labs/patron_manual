@@ -1,4 +1,9 @@
-#  Experience Points
+---
+title: Experience Points
+---
+
+
+# Experience Points
 
 **How can I collect experience point ?**
 
